@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/childcare-site-public/static/css/main.3b24053f.css",
-    "main.js": "/childcare-site-public/static/js/main.59e1c8ac.js",
+    "main.js": "/childcare-site-public/static/js/main.8b222b61.js",
     "static/js/453.688145c8.chunk.js": "/childcare-site-public/static/js/453.688145c8.chunk.js",
     "index.html": "/childcare-site-public/index.html",
     "main.3b24053f.css.map": "/childcare-site-public/static/css/main.3b24053f.css.map",
-    "main.59e1c8ac.js.map": "/childcare-site-public/static/js/main.59e1c8ac.js.map",
+    "main.8b222b61.js.map": "/childcare-site-public/static/js/main.8b222b61.js.map",
     "453.688145c8.chunk.js.map": "/childcare-site-public/static/js/453.688145c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b24053f.css",
-    "static/js/main.59e1c8ac.js"
+    "static/js/main.8b222b61.js"
   ]
 }
